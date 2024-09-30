@@ -1,0 +1,5 @@
+# Ignore all .pkl files
+*.pkl
+
+# Ignore large data files
+data/
